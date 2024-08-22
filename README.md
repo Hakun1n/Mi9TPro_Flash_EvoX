@@ -19,8 +19,8 @@
 - [ROM](https://evolution-x.org/device/raphael)
 - [Recovery](files/recovery_dynamic.zip?raw=true)
 - [Legacy To Dynamic](files/legacy_to_dynamic.zip?raw=true)
-- [Firmware](https://xiaomifirmwareupdater.com/firmware/raphaelin/stable/V12.5.1.0.RFKINXM/) (India)
-- [Firmware](https://xiaomifirmwareupdater.com/firmware/raphael/) (Global, China, Europe)
+- [Firmware](https://xmfirmwareupdater.com/firmware/raphaelin/stable/V12.5.1.0.RFKINXM/) (India)
+- [Firmware](https://xmfirmwareupdater.com/firmware/raphael/) (Global, China, Europe)
 
 
 ## Preparation
